@@ -1,5 +1,9 @@
 # Hain-Plugin-Join
 
+[![npm](https://img.shields.io/npm/dt/hain-plugin-join.svg)](https://www.npmjs.com/package/hain-plugin-join
+) [![npm](https://img.shields.io/npm/dm/hain-plugin-join.svg)](https://www.npmjs.com/package/hain-plugin-join
+) [![GitHub release](https://img.shields.io/github/release/metrakit/hain-plugin-join.svg)](https://www.npmjs.com/package/hain-plugin-join)
+
 A [Hain](https://github.com/appetizermonster/hain) plugin for [Join](https://joaoapps.com/join/) integration.
 
 ![Demo](https://i.imgur.com/TaSU93g.gif)
