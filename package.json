@@ -1,0 +1,30 @@
+{
+  "name": "hain-plugin-join",
+  "version": "0.0.1",
+  "description": "Send Join pushes through the Hain app launcher",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/braydenhouston/hain-plugin-join"
+  },
+  "keywords": [
+    "hain0",
+    "hain-0.6.0"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "superagent": "^3.8.2"
+  },
+  "author": "Brayden Houston",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/braydenhouston/hain-plugin-join/issues"
+  },
+  "homepage": "https://github.com/braydenhouston/hain-plugin-join#readme",
+  "hain": {
+    "prefix": "/join",
+    "usage": "/join",
+    "icon": "join-transparent.png",
+    "redirect": "/join"
+  }
+}

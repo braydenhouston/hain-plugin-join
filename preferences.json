@@ -1,0 +1,16 @@
+{
+  "type": "object",
+  "properties": {
+    "token": {
+      "type": "string",
+      "title": "Join API Key",
+      "default": null
+    },
+    "favorite": {
+      "type": "string",
+      "title": "Favorite Device ID",
+      "description": "Device to be listed first",
+       "default": null
+    }
+  }
+}
