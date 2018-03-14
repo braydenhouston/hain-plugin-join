@@ -11,7 +11,9 @@
     "hain0",
     "hain-0.6.0"
   ],
-  "dependencies": {},
+  "dependencies": {
+     "superagent": "^3.8.2"
+  },
   "devDependencies": {
     "superagent": "^3.8.2"
   },
